@@ -1,6 +1,6 @@
 package Solutions;
 
-public class Main {
+public class Exercise2 {
     public static void main(String[] args) {
         // Create an object of the Person class
         Person person1 = new Person();
